@@ -48,7 +48,7 @@ const WhyTellet = () => {
                 end: () => `+=${distanceToScroll}`,
                 pin: true,
                 scrub: 0,
-                invalidateOnRefresh: false,
+                invalidateOnRefresh: true,
                 anticipatePin: 1
             }
         });
