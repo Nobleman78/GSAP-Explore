@@ -37,7 +37,7 @@ const WhyTellet = () => {
         if (!element || !trigger) return;
 
         // Calculate how much to scroll horizontally
-        const distanceToScroll = element.scrollWidth - window.innerWidth;
+        const distanceToScroll = element.scrollWidth * 1.7 - window.innerWidth;
 
         const tween = gsap.to(element, {
             x: () => -distanceToScroll,
