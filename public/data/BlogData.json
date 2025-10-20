@@ -1,0 +1,205 @@
+[
+    {
+        "id": "ai-001",
+        "title": "How Generative AI is Changing Creative Work",
+        "slug": "how-generative-ai-is-changing-creative-work",
+        "author": {
+            "name": "Ayesha Rahman",
+            "profile_url": "https://example.com/authors/ayesha-rahman"
+        },
+        "date": "2025-10-10T08:30:00+06:00",
+        "categories": [
+            "AI",
+            "Creativity",
+            "Technology"
+        ],
+        "tags": [
+            "generative-ai",
+            "prompt-engineering",
+            "art",
+            "automation"
+        ],
+        "excerpt": "Generative AI tools are reshaping how artists, writers, and designers ideate and produce work — amplifying creativity while raising new questions about authorship.",
+        "coverImage": "https://picsum.photos/600/400?random=1",
+        "readTimeMinutes": 6,
+        "likes": 248,
+        "content": "<p>Generative AI — models that create text, images, audio, and code — have become widely available and accessible. For creators, these tools offer fast ideation, rapid prototyping, and surprising collaborations between human direction and machine suggestion.</p><p>However, the rise of generative systems also raises questions about originality, ownership, and the economic impact on creative professions. In this post we explore practical workflows that combine human judgment with AI, share tips for effective prompt engineering, and examine legal and ethical considerations creators should keep in mind.</p>",
+        "comments": [
+            {
+                "user": "mohammad",
+                "date": "2025-10-11T10:15:00+06:00",
+                "text": "Great overview — would love a deep dive on licensing issues for AI-generated art."
+            }
+        ]
+    },
+    {
+        "id": "ai-002",
+        "title": "AI Ethics: Building Trustworthy Systems",
+        "slug": "ai-ethics-building-trustworthy-systems",
+        "author": {
+            "name": "Dr. Farida Islam",
+            "profile_url": "https://example.com/authors/dr-farida-islam"
+        },
+        "date": "2025-09-28T14:00:00+06:00",
+        "categories": [
+            "AI",
+            "Ethics",
+            "Policy"
+        ],
+        "tags": [
+            "bias",
+            "transparency",
+            "explainability",
+            "governance"
+        ],
+        "excerpt": "As AI touches more of daily life, designers and policymakers must ensure systems are fair, transparent, and accountable — or risk harm and public mistrust.",
+        "coverImage": "https://picsum.photos/600/400?random=2",
+        "readTimeMinutes": 8,
+        "likes": 391,
+        "content": "<p>Ethical AI isn't a single technique — it's a cross-disciplinary practice. It requires diverse data, model auditing, explainable outputs, and governance structures that include impacted communities.</p><p>This article summarizes core principles for trustworthy AI, practical steps organisations can take (from dataset documentation to independent audits), and examples where poor design produced real-world harms. We finish with a checklist teams can use during model development.</p>",
+        "comments": [
+            {
+                "user": "sadia",
+                "date": "2025-09-29T09:45:00+06:00",
+                "text": "The checklist was super useful — saved it for our next model review."
+            },
+            {
+                "user": "timothy",
+                "date": "2025-10-01T12:05:00+06:00",
+                "text": "Would be great to see examples from low-resource languages."
+            }
+        ]
+    },
+    {
+        "id": "ai-003",
+        "title": "AI in Healthcare: Opportunities and Pitfalls",
+        "slug": "ai-in-healthcare-opportunities-and-pitfalls",
+        "author": {
+            "name": "Rana Chakma",
+            "profile_url": "https://example.com/authors/rana-chakma"
+        },
+        "date": "2025-10-02T11:20:00+06:00",
+        "categories": [
+            "AI",
+            "Healthcare",
+            "Data"
+        ],
+        "tags": [
+            "medical-ai",
+            "diagnosis",
+            "privacy",
+            "regulation"
+        ],
+        "excerpt": "AI promises faster diagnosis, personalized treatment plans, and better resource allocation — but accuracy, bias, and data privacy remain major hurdles.",
+        "coverImage": "https://picsum.photos/600/400?random=3",
+        "readTimeMinutes": 7,
+        "likes": 312,
+        "content": "<p>From imaging diagnostics to predictive analytics, AI is already assisting clinicians. When trained and validated correctly, models can detect patterns humans may miss. Yet clinical deployment requires rigorous validation, regulatory approval, and careful monitoring.</p><p>This post outlines high-impact use cases, a roadmap for clinical validation, and patient-data privacy practices that hospitals and startups should adopt to reduce risk while preserving value.</p>",
+        "comments": [
+            {
+                "user": "dr_habib",
+                "date": "2025-10-03T07:50:00+06:00",
+                "text": "Nice summary — please cover model drift monitoring in the next article."
+            }
+        ]
+    },
+    {
+        "id": "ai-004",
+        "title": "Boosting Productivity with Small AI Workflows",
+        "slug": "boosting-productivity-with-small-ai-workflows",
+        "author": {
+            "name": "Taniya Sultana",
+            "profile_url": "https://example.com/authors/taniya-sultana"
+        },
+        "date": "2025-10-15T09:00:00+06:00",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Tools"
+        ],
+        "tags": [
+            "automation",
+            "chatbots",
+            "workflows",
+            "ai-tools"
+        ],
+        "excerpt": "You don't need giant models to benefit from AI. Small, well-designed automation and assistive workflows can save hours a week for teams and individuals.",
+        "coverImage": "https://picsum.photos/600/400?random=4",
+        "readTimeMinutes": 5,
+        "likes": 180,
+        "content": "<p>Practical AI for productivity focuses on integration: automating repetitive tasks, summarizing meeting notes, generating first-draft content, and augmenting code reviews. This article shares five lightweight workflows you can implement today using off-the-shelf APIs and local tools.</p><p>We include template prompts, integration tips, and a short guide on measuring ROI so you can decide which automations are worth keeping.</p>",
+        "comments": [
+            {
+                "user": "rahim",
+                "date": "2025-10-15T13:10:00+06:00",
+                "text": "Tried the meeting-summary template — huge time saver!"
+            }
+        ]
+    },
+    {
+        "id": "ai-004",
+        "title": "Boosting Productivity with Small AI Workflows",
+        "slug": "boosting-productivity-with-small-ai-workflows",
+        "author": {
+            "name": "Taniya Sultana",
+            "profile_url": "https://example.com/authors/taniya-sultana"
+        },
+        "date": "2025-10-15T09:00:00+06:00",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Tools"
+        ],
+        "tags": [
+            "automation",
+            "chatbots",
+            "workflows",
+            "ai-tools"
+        ],
+        "excerpt": "You don't need giant models to benefit from AI. Small, well-designed automation and assistive workflows can save hours a week for teams and individuals.",
+        "coverImage": "https://picsum.photos/600/400?random=5",
+        "readTimeMinutes": 5,
+        "likes": 180,
+        "content": "<p>Practical AI for productivity focuses on integration: automating repetitive tasks, summarizing meeting notes, generating first-draft content, and augmenting code reviews. This article shares five lightweight workflows you can implement today using off-the-shelf APIs and local tools.</p><p>We include template prompts, integration tips, and a short guide on measuring ROI so you can decide which automations are worth keeping.</p>",
+        "comments": [
+            {
+                "user": "rahim",
+                "date": "2025-10-15T13:10:00+06:00",
+                "text": "Tried the meeting-summary template — huge time saver!"
+            }
+        ]
+    },
+    {
+        "id": "ai-004",
+        "title": "Boosting Productivity with Small AI Workflows",
+        "slug": "boosting-productivity-with-small-ai-workflows",
+        "author": {
+            "name": "Taniya Sultana",
+            "profile_url": "https://example.com/authors/taniya-sultana"
+        },
+        "date": "2025-10-15T09:00:00+06:00",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Tools"
+        ],
+        "tags": [
+            "automation",
+            "chatbots",
+            "workflows",
+            "ai-tools"
+        ],
+        "excerpt": "You don't need giant models to benefit from AI. Small, well-designed automation and assistive workflows can save hours a week for teams and individuals.",
+        "coverImage": "https://picsum.photos/600/400?random=6",
+        "readTimeMinutes": 5,
+        "likes": 180,
+        "content": "<p>Practical AI for productivity focuses on integration: automating repetitive tasks, summarizing meeting notes, generating first-draft content, and augmenting code reviews. This article shares five lightweight workflows you can implement today using off-the-shelf APIs and local tools.</p><p>We include template prompts, integration tips, and a short guide on measuring ROI so you can decide which automations are worth keeping.</p>",
+        "comments": [
+            {
+                "user": "rahim",
+                "date": "2025-10-15T13:10:00+06:00",
+                "text": "Tried the meeting-summary template — huge time saver!"
+            }
+        ]
+    }
+]
